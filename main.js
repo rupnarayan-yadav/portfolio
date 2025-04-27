@@ -74,7 +74,7 @@ ScrollReveal({
 
   //types js
   let typed = new Typed(".multiple-text", {
-    strings: ["Frontend Developer", "Backend Developer", "Web Designer", "Creative Thinker"],
+    strings: ["Frontend Developer", "Backend Developer"],
     typeSpeed: 70,
     backSpeed: 70,
     backDelay: 1000,
